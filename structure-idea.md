@@ -4,9 +4,9 @@ Additionally colorschemes, uniform eos branded themes, unique icons for the use 
 
 # GIT Directory
 
-1.0	brand/eos-assets:	
+1.0 **brand/eos-assets:**	
 
-1.1		logo
+1.1 **logo**
    
 **official:**
 - endeavouros-logo.png
@@ -22,7 +22,7 @@ Additionally colorschemes, uniform eos branded themes, unique icons for the use 
 - endeavouros-banner-dark.png
 - endeavouros-banner-dark.svg
 
-1.2		Wallpaper
+1.2 **Wallpaper**
  **official:**
 * /usr/share/endeavouros/backgrounds/endeavouros-wallpaper.png
 * /usr/share/endeavouros/backgrounds/endeavouros-wallpaper-dark.png
