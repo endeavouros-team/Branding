@@ -1,6 +1,6 @@
 ## Official Branding Repository for EndeavourOS
 
-**official used files for branding EndeavourOS ISO Webpages and OS**
+**Official used files for EndeavourOS Brand**
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)]()
 
