@@ -25,10 +25,10 @@ Additionally colorschemes, uniform eos branded themes, unique icons for the use 
 1.2 **Wallpaper**
 
 **official:**
-
-	* /usr/share/endeavouros/backgrounds/endeavouros-wallpaper.png
  
-	* /usr/share/endeavouros/backgrounds/endeavouros-wallpaper-dark.png
+ /usr/share/endeavouros/backgrounds/endeavouros-wallpaper.png
+ 
+ /usr/share/endeavouros/backgrounds/endeavouros-wallpaper-dark.png
      
 **community:**
 	* https://github.com/EndeavourOS-Community-Editions/Community-wallpapers/tree/main/eos_wallpapers_community
