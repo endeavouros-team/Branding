@@ -1,4 +1,4 @@
-## Official branding Repository for EndeavourOS
+## Official Branding Repository for EndeavourOS
 
 **official used files for branding EndeavourOS ISO Webpages and OS**
 
