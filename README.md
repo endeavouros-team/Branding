@@ -11,7 +11,7 @@
 
 # Used Font is Ailerons Typeface
 
-![ailarons_typeface](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/font/typeface.png))
+![ailarons_typeface](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/font/typeface.png)
 
 credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-Typeface/modules/943293657?isa0=1)
 
