@@ -4,9 +4,9 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)]()
 
-![repository-open-graph-template](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/EndeavourOS-logo-official/endeavourosos-logo-horizontal_with_safespace_and_background.svg)
+![repository-open-graph-template](https://raw.githubusercontent.com/endeavouros-team/Branding/icons/refs/heads/main/EndeavourOS-logo-official/endeavourosos-logo-horizontal_with_safespace_and_background.svg)
 
-![colorscheme](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png)
+![colorscheme](https://raw.githubusercontent.com/endeavouros-team/Branding/icons/refs/heads/main/color-schemes/color-scheme-hex-preview.png)
 
 # Used Font is Ailerons Typeface
 
@@ -16,11 +16,11 @@
 credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-Typeface/modules/943293657?isa0=1)
 
 
-![EndeavourOS Logo](https://raw.githubusercontent.com/endeavouros-team/Branding/master/endeavouros.png "EndeavourOS Logo") 
+![EndeavourOS Logo](https://raw.githubusercontent.com/endeavouros-team/Branding/icons/master/endeavouros.png "EndeavourOS Logo") 
 
-![EndeavourOS dark Logo](https://raw.githubusercontent.com/endeavouros-team/Branding/master/endeavouros-dark.png "EndeavourOS dark Logo")
+![EndeavourOS dark Logo](https://raw.githubusercontent.com/endeavouros-team/Branding/icons/master/endeavouros-dark.png "EndeavourOS dark Logo")
 
-![EndeavourOS Icon](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/endeavouros-icon.png "EndeavourOS Icon")
+![EndeavourOS Icon](https://raw.githubusercontent.com/endeavouros-team/Branding/icons/refs/heads/main/endeavouros-icon.png "EndeavourOS Icon")
 
 ---
 
