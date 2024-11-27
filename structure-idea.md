@@ -31,7 +31,8 @@ Additionally colorschemes, uniform eos branded themes, unique icons for the use 
  /usr/share/endeavouros/backgrounds/endeavouros-wallpaper-dark.png
      
 **community:**
-	* https://github.com/EndeavourOS-Community-Editions/Community-wallpapers/tree/main/eos_wallpapers_community
+	
+ https://github.com/EndeavourOS-Community-Editions/Community-wallpapers/tree/main/eos_wallpapers_community
 		    
 1.4  **color-pallette**
 https://github.com/endeavouros-team/Branding/tree/main/color-schemes
