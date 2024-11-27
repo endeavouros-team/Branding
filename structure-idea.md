@@ -4,12 +4,6 @@
 Additionally colorschemes, uniform eos branded themes, unique Icons for the use in de/wms, fonts(a specific font) etc.
  
 however as EOS goal is to provide bare minimum/default arch distro to its user so all of this can be ignored
- 
-Example READ:
-
-* https://elementary.io/brand
-
-* https://github.com/elementary/brand/
 
 # GIT Directory
 
