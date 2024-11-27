@@ -9,43 +9,34 @@ Additionally colorschemes, uniform eos branded themes, unique icons for the use 
 1.1		logo
    
 **official:**
-- 16x16.ico
-- XXxXX.png
-- XXxXX.svg
-- light_ZZxZZ.svg
-- dark_ZZxZZ.svg
-- lighttag_ZZxZZ.svg
-- darktag_ZZxZZ.svg
-- large.(svg/png)
-     
-**community:**
-- XXxXX.png
-- XXxXX.svg
-- YYxYY.svg
-- ZZxZZ.svg
-- large.(svg/png)
+- endeavouros-logo.png
+- endeavouros-logo.svg
+- endeavouros-logo.dark.png
+- endeavouros-logo.dark.svg
+- endeavouros-icon.png
+- endeavouros-icon.svg
+- endeavouros-icon.dark.png
+- endeavouros-icon-dark.svg
+- endeavouros-banner.png
+- endeavouros-banner.svg
+- endeavouros-banner-dark.png
+- endeavouros-banner-dark.svg
 
 1.2		Wallpaper
  **official:**
-picture-uri='file:///usr/share/endeavouros/backgrounds/endeavouros-wallpaper.png'
-picture-uri-dark='file:///usr/share/endeavouros/backgrounds/endeavouros-wallpaper-dark.png'
+* /usr/share/endeavouros/backgrounds/endeavouros-wallpaper.png
+* /usr/share/endeavouros/backgrounds/endeavouros-wallpaper-dark.png
      
 **community:**
 https://github.com/EndeavourOS-Community-Editions/Community-wallpapers/tree/main/eos_wallpapers_community
 		    
-**Mobile:**
-- wpname1_XXxXX.(jpg/png)	?
-
-1.3		custom-icons
-- for use on plymouth 
-		    
-1.4		color-pallette
+1.4  **color-pallette**
 https://github.com/endeavouros-team/Branding/tree/main/color-schemes
     
-1.5		LICENSE/Code_of_Conduct.md
+1.5 **LICENSE**
 https://github.com/endeavouros-team/Branding/blob/main/LICENSE
 
-2.0	eos-themes
+2.0 **eos-themes**
 
 * **eos-terminal-colorschemes:**
 https://github.com/endeavouros-team/Branding/tree/main/terminal-color-schemes
