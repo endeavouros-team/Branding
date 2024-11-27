@@ -1,0 +1,69 @@
+#: The color table {{{
+
+#: The 256 terminal colors. There are 8 basic colors, each color has a
+#: dull and bright version, for the first 16 colors. You can set the
+#: remaining 240 colors as color16 to color255.
+
+color0 #000000
+color8 #6f53b9
+
+#: black
+
+color1 #ff3232
+color9 #ff7f7f
+
+#: red
+
+color2  #ff7f7f
+color10 #c3699e
+
+#: green
+
+color3  #cb6a99
+color11 #ff9d9d
+
+#: yellow
+
+# color4  #0d73cc
+# color12 #1a8fff
+
+#: blue
+
+# color5  #9164bf
+# color13 #7f7fff
+
+#: magenta
+
+# color6  #0dcdcd
+# color14 #14ffff
+
+#: cyan
+
+# color7  #dddddd
+# color15 #ffffff
+
+#: white
+
+# mark1_foreground black
+
+#: Color for marks of type 1
+
+# mark1_background #98d3cb
+
+#: Color for marks of type 1 (light steel blue)
+
+# mark2_foreground black
+
+#: Color for marks of type 2
+
+# mark2_background #f2dcd3
+
+#: Color for marks of type 1 (beige)
+
+# mark3_foreground black
+
+#: Color for marks of type 3
+
+# mark3_background #f274bc
+
+#: Color for marks of type 3 (violet)

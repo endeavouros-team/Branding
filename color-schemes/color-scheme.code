@@ -1,0 +1,35 @@
+- Tailwind
+
+{ 'blue_violet': { DEFAULT: '#7f3fbf', 100: '#190d26', 200: '#33194d', 300: '#4c2673', 400: '#663399', 500: '#7f3fbf', 600: '#9966cc', 700: '#b28cd9', 800: '#ccb3e6', 900: '#e6d9f2' }, 'light_red': { DEFAULT: '#ff7f7f', 100: '#4d0000', 200: '#990000', 300: '#e60000', 400: '#ff3333', 500: '#ff7f7f', 600: '#ff9999', 700: '#ffb3b3', 800: '#ffcccc', 900: '#ffe5e5' }, 'tropical_indigo': { DEFAULT: '#7f7fff', 100: '#00004d', 200: '#000099', 300: '#0000e6', 400: '#3333ff', 500: '#7f7fff', 600: '#9999ff', 700: '#b3b3ff', 800: '#ccccff', 900: '#e5e5ff' }, 'oxford_blue': { DEFAULT: '#08052b', 100: '#020108', 200: '#030210', 300: '#050319', 400: '#060421', 500: '#08052b', 600: '#180f7c', 700: '#2818cf', 800: '#6559ec', 900: '#b2acf5' }, 'white': { DEFAULT: '#ffffff', 100: '#333333', 200: '#666666', 300: '#999999', 400: '#cccccc', 500: '#ffffff', 600: '#ffffff', 700: '#ffffff', 800: '#ffffff', 900: '#ffffff' }, 'black': { DEFAULT: '#000000', 100: '#000000', 200: '#000000', 300: '#000000', 400: '#000000', 500: '#000000', 600: '#333333', 700: '#666666', 800: '#999999', 900: '#cccccc' }, 'jet': { DEFAULT: '#2c2c2c', 100: '#090909', 200: '#111111', 300: '#1a1a1a', 400: '#232323', 500: '#2c2c2c', 600: '#565656', 700: '#808080', 800: '#aaaaaa', 900: '#d5d5d5' } }
+
+- CSV
+
+7f3fbf,ff7f7f,7f7fff,08052b,ffffff,000000,2c2c2c
+
+- With #
+
+#7f3fbf, #ff7f7f, #7f7fff, #08052b, #ffffff, #000000, #2c2c2c
+
+- Array
+
+["7f3fbf","ff7f7f","7f7fff","08052b","ffffff","000000","2c2c2c"]
+
+- Object
+
+{"Blue Violet":"7f3fbf","Light red":"ff7f7f","Tropical indigo":"7f7fff","Oxford Blue":"08052b","White":"ffffff","Black":"000000","Jet":"2c2c2c"}
+
+- Extended Array
+
+[{"name":"Blue Violet","hex":"7f3fbf","rgb":[127,63,191],"cmyk":[34,67,0,25],"hsb":[270,67,75],"hsl":[270,50,50],"lab":[41,52,-57]},{"name":"Light red","hex":"ff7f7f","rgb":[255,127,127],"cmyk":[0,50,50,0],"hsb":[0,50,100],"hsl":[0,100,75],"lab":[68,49,23]},{"name":"Tropical indigo","hex":"7f7fff","rgb":[127,127,255],"cmyk":[50,50,0,0],"hsb":[240,50,100],"hsl":[240,100,75],"lab":[59,33,-64]},{"name":"Oxford Blue","hex":"08052b","rgb":[8,5,43],"cmyk":[81,88,0,83],"hsb":[245,88,17],"hsl":[245,79,9],"lab":[3,11,-23]},{"name":"White","hex":"ffffff","rgb":[255,255,255],"cmyk":[0,0,0,0],"hsb":[0,0,100],"hsl":[0,0,100],"lab":[100,0,0]},{"name":"Black","hex":"000000","rgb":[0,0,0],"cmyk":[0,0,0,100],"hsb":[0,0,0],"hsl":[0,0,0],"lab":[0,0,0]},{"name":"Jet","hex":"2c2c2c","rgb":[44,44,44],"cmyk":[0,0,0,83],"hsb":[0,0,17],"hsl":[0,0,17],"lab":[18,0,0]}]
+
+- XML
+
+<palette>
+  <color name="Blue Violet" hex="7f3fbf" r="127" g="63" b="191" />
+  <color name="Light red" hex="ff7f7f" r="255" g="127" b="127" />
+  <color name="Tropical indigo" hex="7f7fff" r="127" g="127" b="255" />
+  <color name="Oxford Blue" hex="08052b" r="8" g="5" b="43" />
+  <color name="White" hex="ffffff" r="255" g="255" b="255" />
+  <color name="Black" hex="000000" r="0" g="0" b="0" />
+  <color name="Jet" hex="2c2c2c" r="44" g="44" b="44" />
+</palette>

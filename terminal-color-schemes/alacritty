@@ -1,0 +1,9 @@
+[colors.normal]
+green = "#7f7fff"
+red = "#d95151"
+white = "#ffffff"
+yellow = "#cc3980"
+
+[colors.primary]
+background = "#110a21"
+foreground = "#b7b7ff"
