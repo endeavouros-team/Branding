@@ -6,12 +6,12 @@
 
 ![repository-open-graph-template](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/EndeavourOS-logo-files/endeavourosos-logo-horizontal_with_safespace_and_background.svg)
 
-<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png" width="500" >
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png" width="680" >
 
 
 # Used Font is Ailerons Typeface
 
-<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/font/typeface.png" width="500" >
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/font/typeface.png" width="680" >
 
 credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-Typeface/modules/943293657?isa0=1)
 
