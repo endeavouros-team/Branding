@@ -4,7 +4,7 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)]()
 
-<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/EndeavourOS-logo-files/endeavourosos-logo-horizontal_with_safespace_and_background.svg" alt="repository-open-graph-template" width="680" >
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/EndeavourOS-logo-files/endeavourosos-logo-horizontal_with_safespace_and_background.svg" alt="repository-open-graph-template" width="1024" >
 
 <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png" alt="color-scheme-hex-preview" width="680" >
 
@@ -15,11 +15,11 @@
 
 credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-Typeface/modules/943293657?isa0=1)
 
-<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros.png" alt="EndeavourOS Logo" width="250" >
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros.png" alt="EndeavourOS Logo" width="150" >
 
-<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros-dark.png" alt="EndeavourOS dark Logo" width="250" >
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros-dark.png" alt="EndeavourOS dark Logo" width="150" >
 
-<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/EndeavourOS-icon.png" alt="EndeavourOS icon" width="250" >
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/EndeavourOS-icon.png" alt="EndeavourOS icon" width="150" >
 
 ---
 
