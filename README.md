@@ -7,6 +7,7 @@
 ![repository-open-graph-template](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/EndeavourOS-logo-files/endeavourosos-logo-horizontal_with_safespace_and_background.svg)
 
 ![colorscheme](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png)
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png" width="300" >
 
 
 # Used Font is Ailerons Typeface
