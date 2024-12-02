@@ -15,12 +15,11 @@
 
 credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-Typeface/modules/943293657?isa0=1)
 
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros.png" alt="EndeavourOS Logo" width="250" >
 
-![EndeavourOS Logo](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros.png "EndeavourOS Logo") 
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros-dark.png" alt="EndeavourOS dark Logo" width="250" >
 
-![EndeavourOS dark Logo](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros-dark.png "EndeavourOS dark Logo")
-
-![EndeavourOS Icon](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/EndeavourOS-icon.png "EndeavourOS Icon")
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/EndeavourOS-icon.png" alt="EndeavourOS icon" width="250" >
 
 ---
 
