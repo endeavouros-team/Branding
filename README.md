@@ -4,9 +4,9 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)]()
 
-![repository-open-graph-template](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/EndeavourOS-logo-files/endeavourosos-logo-horizontal_with_safespace_and_background.svg)
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/EndeavourOS-logo-files/endeavourosos-logo-horizontal_with_safespace_and_background.svg" alt="repository-open-graph-template" width="680" >
 
-<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png" width="680" >
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png" alt="color-scheme-hex-preview" width="680" >
 
 
 # Used Font is Ailerons Typeface
