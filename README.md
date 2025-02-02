@@ -1,6 +1,6 @@
 ## Official Branding Repository for EndeavourOS
 
-**Official used files for EndeavourOS Brand**
+**Official used files for EndeavourOS Branding**
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)]()
 
@@ -22,7 +22,7 @@ credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-T
 <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/EndeavourOS-icon.png" alt="EndeavourOS icon" width="150" >
 
 ---
-
+* Jan 2025 adding Wallpapers for Mercury Release (dark and light variant)
 * Nov 27 2024: Recreating the repo with fixed images, adding information to make it easier for contributors to use them.
 * Jun 17.2024: Exchanging wallpaper for Endeavour release 
 * 18.10.2023: Galileo Wallpapers in 
