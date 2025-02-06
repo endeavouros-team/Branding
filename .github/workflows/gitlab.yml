@@ -6,12 +6,15 @@ jobs:
   to_gitlab:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - uses: pixta-dev/repository-mirroring-action@v1
-        with:
-          target_repo_url:
-            git@gitlab.com:endeavouros-filemirror/Branding.git
-          ssh_private_key:
-            ${{ secrets.GITLAB_SYNC }}
+      - name: Set up Git configuration
+        run: |
+          git config --global user.name "${{ secrets.GITLAB_USER_NAME }}"
+          git config --global user.email "${{ secrets.GITLAB_USER_EMAIL }}"
+      - name: Add GitLab remote
+        run: git remote add gitlab https://gitlab-ci-token:${{ secrets.GITLAB_ACCESS_TOKEN }}@gitlab.com/endeavouros-filemirror/Branding.git
+      - name: Push to GitLab
+        run: git push --mirror gitlab
