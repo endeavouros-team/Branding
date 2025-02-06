@@ -9,6 +9,6 @@ jobs:
     steps:
     - uses: keninkujovic/gitlab-sync@2.0.0
       with:
-        gitlab_url: git@gitlab.com:endeavouros-filemirror/EndeavourOS-ISO.git
+        gitlab_url: git@gitlab.com:endeavouros-filemirror/Branding.git
         username: ${{ secrets.GITLAB_USR }}
         gitlab_pat: ${{ secrets.GITLAB_PAT }}
