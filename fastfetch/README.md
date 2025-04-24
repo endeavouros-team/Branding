@@ -4,4 +4,4 @@
 3. run `fastfetch` from a terminal that can handle image files [kitty, alacritty, xfce4-terminal, gnome-terminal kgx, konsole ]]
 4. open config.jasonc with your beloved editor of choice and play with it, like adding your name with fancy iconoc donts e.t.c.
 5. enjoy
-<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/fastfetch/fastfetch-endeavouros.png" alt="screenshot fastfetch EndeavourOS" width="650" >
+<img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/fastfetch/fastfetch.png" alt="screenshot fastfetch EndeavourOS">
