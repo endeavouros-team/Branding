@@ -23,7 +23,8 @@ credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-T
 
 ---
 
-* Jan 2025 adding Wallpapers for Mercury Release (dark and light variant)
+* April 2025: adding README.md to fastfetch folder with info on how to use it including screenshots
+* Jan 2025: adding Wallpapers for Mercury Release (dark and light variant)
 * Nov 27 2024: Recreating the repo with fixed images, adding information to make it easier for contributors to use them.
 * Jun 17.2024: Exchanging wallpaper for Endeavour release 
 * 18.10.2023: Galileo Wallpapers in 
