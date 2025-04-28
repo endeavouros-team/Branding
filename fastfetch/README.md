@@ -1,5 +1,5 @@
 # How to set this up on your device
-1. install fastfetch `sudo pacman -S --needed fastfetch awesome-terminal-fonts`
+1. install fastfetch `sudo pacman -S --needed fastfetch ttf-jetbrains-mono-nerd`
    Seems on KDE/plasma you need `ttf-jetbrains-mono-nerd` package instead --_>  `sudo pacman -S --needed fastfetch ttf-jetbrains-mono-nerd`
 3. copy the two files under your users path $HOME/.config/fastfetch ( pngs [folder] and config.jsonc [config] )
 4. run `fastfetch` from a terminal that can handle image files [kitty, alacritty, xfce4-terminal, gnome-terminal kgx, konsole ]
