@@ -1,69 +1,45 @@
-#: The color table {{{
+# kitty-colors.conf with EndeavourOS color scheme, 
+# it is replacing some colors what makes it non compatinble for some aplications, 
+# its basically for the style ;)
+# add 'include kitty-colors.conf' to your 'kitty.conf' to source the scheme
 
-#: The 256 terminal colors. There are 8 basic colors, each color has a
-#: dull and bright version, for the first 16 colors. You can set the
-#: remaining 240 colors as color16 to color255.
+foreground              #e3e3ea
+background              #0c0c19
+selection_foreground    #2c2c2c
+selection_background    #ffffff
+cursor                  #ffffff
+cursor_text_color       #2c2c2c
 
-color0 #000000
-color8 #6f53b9
+# black
+color0    #000000
+color8    #3535b1
+# light purple instead of black good for transparency
 
-#: black
+# red
+color1    #ff7f7f
+color9    #ff7f7f
 
-color1 #ff3232
-color9 #ff7f7f
+# green
+color2    #7f3fbf 
+# 7f3fbf purple instead of green (can break colors)
+color10   #ffd8d8
 
-#: red
+# yellow
+color3    #cc3980
+color11   #ff7f7f
 
-color2  #ff7f7f
-color10 #c3699e
+# blue
+color4    #7f7fff
+color12   #9898ff
 
-#: green
+# magenta
+color5    #7f3fbf
+color13   #7f3fbf
 
-color3  #cb6a99
-color11 #ff9d9d
+# cyan
+color6    #7f7fff
+color14   #7f7fff
 
-#: yellow
-
-# color4  #0d73cc
-# color12 #1a8fff
-
-#: blue
-
-# color5  #9164bf
-# color13 #7f7fff
-
-#: magenta
-
-# color6  #0dcdcd
-# color14 #14ffff
-
-#: cyan
-
-# color7  #dddddd
-# color15 #ffffff
-
-#: white
-
-# mark1_foreground black
-
-#: Color for marks of type 1
-
-# mark1_background #98d3cb
-
-#: Color for marks of type 1 (light steel blue)
-
-# mark2_foreground black
-
-#: Color for marks of type 2
-
-# mark2_background #f2dcd3
-
-#: Color for marks of type 1 (beige)
-
-# mark3_foreground black
-
-#: Color for marks of type 3
-
-# mark3_background #f274bc
-
-#: Color for marks of type 3 (violet)
+# white
+color7    #e3e3ea
+color15   #ffffff
