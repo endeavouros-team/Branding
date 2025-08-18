@@ -4,7 +4,7 @@
 # optimizes all file in the directory
 
 # Required packages
-REQUIRED_PKGS=("pngcrush" "optipng" "zopflipng")
+REQUIRED_PKGS=("pngcrush" "optipng" "zopfli")
 
 # Check for dependencies
 missing=()
