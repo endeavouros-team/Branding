@@ -1,8 +1,3 @@
-# kitty-colors.conf with EndeavourOS color scheme, 
-# it is replacing some colors what makes it non compatinble for some aplications, 
-# its basically for the style ;)
-# add 'include kitty-colors.conf' to your 'kitty.conf' to source the scheme
-
 foreground              #e3e3ea
 background              #0c0c19
 selection_foreground    #2c2c2c
@@ -13,7 +8,6 @@ cursor_text_color       #2c2c2c
 # black
 color0    #000000
 color8    #3535b1
-# light purple instead of black good for transparency
 
 # red
 color1    #ff7f7f
@@ -21,7 +15,6 @@ color9    #ff7f7f
 
 # green
 color2    #7f3fbf 
-# 7f3fbf purple instead of green (can break colors)
 color10   #ffd8d8
 
 # yellow
