@@ -1,4 +1,4 @@
-# Logo, Color Pallete
+# Logo, Color Palette
 
 Additionally colorschemes, uniform eos branded themes, unique icons for the use in de/wms, fonts (a specific font)
 
