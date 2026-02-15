@@ -31,6 +31,12 @@ credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-T
 * 24.03.2023: adding some dark variants for logo files (joekamprad)
 * 06.04.2021: review all icon and logo files and make them square. (joekamprad)
 * 24.8.2021: upload release 08-2021 wallpaper and create backup branch for 04-2021 release
+# Our contributors
 
+<a href="https://github.com/endeavouros-team/Branding/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=endeavouros-team/Branding" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 
