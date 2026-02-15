@@ -40,6 +40,6 @@ credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-T
   <img src="https://contrib.rocks/image?repo=endeavouros-team/Branding" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+<small>Made with [contrib.rocks](https://contrib.rocks)</small>
 
 
