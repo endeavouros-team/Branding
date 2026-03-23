@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/font/typeface.png" width="680" >
 
-credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-Typeface/modules/943293659)
+credit: https://www.behance.net/gallery/25541553/Ailerons-Typeface#
 
 <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros.png" alt="EndeavourOS Logo" width="150" >
 
