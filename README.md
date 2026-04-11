@@ -4,6 +4,8 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2026.svg)]()
 
+---
+
 <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/EndeavourOS-logo-files/endeavourosos-logo-horizontal_with_safespace_and_background.svg" alt="repository-open-graph-template" width="1024" >
 
 <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png" alt="color-scheme-hex-preview" width="1024" >
