@@ -7,7 +7,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-    - uses: keninkujovic/gitlab-sync@2.0.0
+    - uses: keninkujovic/gitlab-sync@2.1.3
       with:
         gitlab_url: https://gitlab.com/endeavouros-filemirror/Branding.git
         username: ${{ secrets.GITLAB_USR }}
